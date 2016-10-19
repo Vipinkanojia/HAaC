@@ -13,5 +13,7 @@ public class HAC_front_page extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.hac_front_page);
+       // button=(Button)findviewbyId(R.id.button);
+        
     }
 }
